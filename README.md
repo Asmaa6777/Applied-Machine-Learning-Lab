@@ -1,7 +1,7 @@
 # Machine Learning Codes, Ideas, and Models
 ![image](https://github.com/user-attachments/assets/868c1825-b66c-4d9d-8859-4ccb88a9bb4c)
 
-Welcome — a concise collection of projects, notebooks, data, and competition entries documenting my applied machine learning work and learning journey.
+Welcome a concise collection of projects, notebooks, data, and competition entries documenting my applied machine learning work and learning journey.
 
 ## Table of Contents
 
@@ -23,8 +23,14 @@ Welcome — a concise collection of projects, notebooks, data, and competition e
 ## Repository Structure (high level)
 
 -- Airbnb-NUB — notebooks and data for the Airbnb new user booking prediction project
+
+
 -- Kepler-Exoplanet — exoplanet EDA and modeling notebooks
+
+
 -- Vegetation-Mapping — competition notebooks and data (score: 9)
+
+
 -- WIDS-2025 — competition code, notebooks, and requirements.txt (score: 77)
 
 ## Notes
