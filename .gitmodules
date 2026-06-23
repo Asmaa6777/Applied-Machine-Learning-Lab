@@ -1,0 +1,12 @@
+[submodule "Vegetation-Mapping"]
+	path = Vegetation-Mapping
+	url = https://github.com/Asmaa6777/Vegetation-Mapping
+[submodule "WIDS-2025"]
+	path = WIDS-2025
+	url = https://github.com/Asmaa6777/WIDS-2025
+[submodule "Airbnb-NUB"]
+	path = Airbnb-NUB
+	url = https://github.com/Asmaa6777/Airbnb-NUB
+[submodule "Kepler-Exoplanet"]
+	path = Kepler-Exoplanet
+	url = https://github.com/Asmaa6777/Kepler-Exoplanet
