@@ -12,9 +12,9 @@ Welcome a concise collection of projects, notebooks, data, and competition entri
 
 ## Projects & Competitions
 
-- Vegetation-Mapping — competition; my score: 9. 
+- Vegetation-Mapping — competition; score: 9. 
 
-- WIDS-2025 — competition; my score: 77. 
+- WIDS-2025 — competition; score: 77. 
 ## Notable Projects
 
 - Kepler-Exoplanet — my first-ever project. 
