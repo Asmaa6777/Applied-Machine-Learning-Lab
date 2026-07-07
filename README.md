@@ -6,7 +6,7 @@ Welcome a concise collection of projects, notebooks, data, and competition entri
 
 ## Projects & Competitions
 
-- Vegetation-Mapping — competition; score: 9. 
+- Vegetation-Mapping — competition; Silver medal. 
 
 - WIDS-2025 — competition; score: 77. 
 ## Notable Projects
@@ -22,10 +22,10 @@ Welcome a concise collection of projects, notebooks, data, and competition entri
 -- Kepler-Exoplanet — exoplanet EDA and modeling notebooks
 
 
--- Vegetation-Mapping — competition notebooks and data (score: 9)
+-- Vegetation-Mapping — competition notebooks and data 
 
 
--- WIDS-2025 — competition code, notebooks, and requirements.txt (score: 77)
+-- WIDS-2025 — competition code, notebooks, and requirements.txt 
 
 ## Notes
 
