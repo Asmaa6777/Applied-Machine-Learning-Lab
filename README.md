@@ -3,12 +3,6 @@
 
 Welcome a concise collection of projects, notebooks, data, and competition entries documenting my applied machine learning work and learning journey.
 
-## Table of Contents
-
-- Projects & Competitions
-- Notable Projects
-- Repository Structure
-- How to use this repo
 
 ## Projects & Competitions
 
